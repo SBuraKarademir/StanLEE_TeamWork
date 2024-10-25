@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Rakkas&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+body {
+  background-color: black;
+}
+main {
+  margin: 80px;
+  background-color: rgb(48, 46, 46);
+  height: 1000px;
+  border-radius: 30px;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: "Lobster", sans-serif;
+  font-size: 90px;
+}
+span {
+  color: red;
+}
+img {
+  display: block;
+  height: 250px;
+  width: 400px;
+  margin: auto;
+  border-radius: 30px;
+  box-shadow: 0 20px 100px 40px red;
+}
+header p {
+  text-align: center;
+  margin: 20px;
+}
+section {
+  width: 90%;
+  margin: auto;
+}
+section p {
+  text-align: justify;
+}
+h4 {
+  color: red;
+  margin: 15px 0;
+}
+li {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+footer {
+  text-align: center;
+  margin: 20px;
+  padding: 20;
+}
+a {
+  text-decoration: none;
+  border: 3px solid orange;
+  background-color: black;
+  text-decoration: none;
+  padding: 15px;
+}
+a:hover {
+  color: red;
+  background-color: rgb(48, 46, 46);
+}
